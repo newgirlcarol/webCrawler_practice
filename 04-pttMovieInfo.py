@@ -26,7 +26,17 @@ for i in range(0,5):
             # Get article content
             resArticle = requests.get(articleUrl, headers=headers)
             soupArticle = BeautifulSoup(resArticle.text, 'lxml')
-            articleContent = soupArticle.select('div#main-content')[0].text.split('※ 發信站')[0]
+            # articleContent = soupArticle.select('div#main-content')[0].text.split('※ 發信站')[0]
+            articleContentSoup = soupArticle.select('div#main-content')[0]
+            # for i in articleContentSoup.select('div'):
+            #     i.extract()
+            # for i in articleContentSoup.select('span'):
+            #     i.extract()
+            #前兩段回圈合併成一組回圈如下
+            for tag in ['div', 'span']:
+                for i in articleContentSoup.select(tag):
+                    i.extract()
+            articleContent = articleContentSoup.text
             # print(articleContent)
             print(title)
             print(articleUrl)
