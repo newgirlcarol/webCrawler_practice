@@ -21,4 +21,3 @@ for titleSoup in titles:
     print(title)
     print(articleUrl)
 
-
