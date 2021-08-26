@@ -1,0 +1,13 @@
+徵才名稱:數據分析師
+徵才公司:勤崴國際科技股份有限公司
+徵才日期:2021/08/06
+其他條件:['Python', 'Tableau']
+徵才網址:www.104.com.tw/job/7bep4?jobsource=jolist_c_relevance
+工作內容:【工作摘要】
+〔Data Engineer〕
+- Develop, operate, and monitor ETL for data collection, cleansing, processing, storage, and analytics
+- Automate common data process tasks and support data analysis tasks
+- Develop data visualization to track data usage, server status, and represent data insights
+- Write documents for architecture design and implementation
+
+

@@ -1,0 +1,22 @@
+徵才名稱:行銷數據分析實習生【明基BenQ雲端創新中心】
+徵才公司:明基電通股份有限公司
+徵才日期:2021/08/25
+其他條件:[]
+徵才網址:www.104.com.tw/job/6o2bd?jobsource=jolist_d_relevance
+工作內容:【職務說明】
+一、數據管理
+1.	協助管理全球 B2B、B2C等數十個國家之官網 Google Analytics數據。
+2.	數位行銷工具與數據平台串接。
+3.	協助進行資料盤點及數據正確性驗證，提供正確數據給全球各業務單位、行銷部門及各國分公司使用。
+
+
+二、數據分析應用
+1.	協助各業務單位、行銷部門及各國分公司釐清數據需求，製作數據分析報告。
+2.	熟知Google Analytics各維度、指標定義及報表使用，針對不同國家、市場提供 insights。
+3.	依據不同商業目標，應用Google Analytics維度、指標與 Data Studio建立 Dashboards。
+
+
+【擅長工具】
+1.	Google Analytics
+2.	Google Tag Manager
+3.	Google Data Studio

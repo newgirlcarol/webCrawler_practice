@@ -1,0 +1,10 @@
+徵才名稱:【策略分析部】數據分析師
+徵才公司:聯合智網股份有限公司
+徵才日期:2021/08/15
+其他條件:['Excel', 'PowerPoint', 'Tableau', 'Google Analytics']
+徵才網址:www.104.com.tw/job/6nqcb?jobsource=jolist_d_relevance
+工作內容:1. 挖掘數據Insight，讓數據提升價值，協助各單位靈活運用數據分析結果。
+2. 例行性報表產出
+3. BI-Tableau 多維度分析工具運用，能使用tableau進行分析設計。
+4. GA360/GA 工具應用及分析
+5. 電商產業數據分析實務經驗2年以上

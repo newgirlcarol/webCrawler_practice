@@ -1,0 +1,11 @@
+徵才名稱:(APP)數據分析師_台北
+徵才公司:尊博科技股份有限公司
+徵才日期:2021/08/24
+其他條件:['Python', 'R', 'MS SQL', 'Excel', 'Tableau', 'Power BI\u200b']
+徵才網址:www.104.com.tw/job/7bps7?jobsource=jolist_c_relevance
+工作內容:**應徵時請附上Cover Letter(自薦信)** 
+
+1. 根據營運需求建構預測模型
+2. 執行需求及數據分析
+3. 提供資訊視覺化及說明分析
+4. 蒐集競業資訊、報表整理

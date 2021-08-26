@@ -1,0 +1,26 @@
+徵才名稱:行銷數據分析師【明基BenQ雲端創新中心】
+徵才公司:明基電通股份有限公司
+徵才日期:2021/08/25
+其他條件:['HTML', 'JavaScript', 'CSS', 'Tableau', 'Google Analytics', 'Google Tag Manager']
+徵才網址:www.104.com.tw/job/6lg8y?jobsource=jolist_c_relevance
+工作內容:【職務說明】
+一、數據設定 
+1. 實作並管理全球 B2B、B2C、Zowie等數十個國家之官網 Google Analytics、Google Tag Manager設定。 
+2. 在Google Analytics上完成網站數據治理、撰寫文件。 
+3. 數位行銷工具與數據平台串接。 
+
+二、數據應用 
+1. 數據分析專案執行，發覺洞察並提出建議。
+2. 架設Google Cloud Platform，使用BigQuery，建立有助於官網銷售的數據分析模組。
+3. 與自動化測試工程師合作，確保數據常態的正確性。
+
+
+【擅長工具】
+1. Google Cloud Platform 
+2. BigQuery 
+3. Google Analytics 
+4. Google Tag Manager 
+5. JavaScript 
+6. 網站開發知識（HTML/CSS） 
+7. Tableau
+

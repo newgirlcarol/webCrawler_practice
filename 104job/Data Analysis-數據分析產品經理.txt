@@ -1,0 +1,16 @@
+徵才名稱:Data Analysis-數據分析產品經理
+徵才公司:替您錄科技股份有限公司(TGC Taiwan, Inc.)
+徵才日期:2021/08/23
+其他條件:['Google Analytics', 'Google Tag Manager']
+徵才網址:www.104.com.tw/job/6jbr5?jobsource=jolist_d_relevance
+工作內容:需求分析
+- 跨部門合作，具備良好溝通能力，協助釐清公司營運需求，提供技術單位開發規格；
+- 擅長利用質性與量化研究方法及分析工具得到數據洞見，提供相關觀察與策略建議。
+
+流量成長
+- 熟悉流量追蹤工具(Google Analytics/Firebase/Search Console...等)，分析各載具流量來源、追蹤用戶行為與提供改善建議
+- A/B testing，提出問題假設，設計實驗與前後測分析，並彙整報告成果
+
+付費轉換
+- 與行銷部門共同規劃Marketing Funnel，分析轉換事件與成效，提供優化建議
+- 協助營運單位建立數據分析報表，並運用流量工具找出優化方案

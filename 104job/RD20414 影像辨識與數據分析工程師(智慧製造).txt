@@ -1,0 +1,9 @@
+徵才名稱:RD20414 影像辨識與數據分析工程師(智慧製造)
+徵才公司:華碩電腦股份有限公司
+徵才日期:2021/07/16
+其他條件:[]
+徵才網址:www.104.com.tw/job/6oyrc?jobsource=jolist_c_relevance
+工作內容:1. Deep learning 影像辨識
+2. Deep learning 數據分析
+3. 電腦視覺演算法開發
+4. 專案軟體開發
