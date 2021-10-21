@@ -25,7 +25,7 @@
 
     > 第一階
     >> 第二階
-    `小區塊 *` (字句前後加上反向引號)
+    `小區塊 ` (字句前後加上反向引號)
     
     ```
     大區塊；或是前面空四格空白鍵
@@ -33,7 +33,7 @@
 > 第一階
 >> 第二階
 
->`小區塊*`
+>`小區塊`
 > ```
 > 大區塊
 > ```
@@ -50,7 +50,53 @@
 
 **checkbox**
 
-    [x] 完成事項
-    [ ] 代辦事項  
-[ ] 完成事項 \
-[x] 代辦事項
+    - [x] 完成事項
+    - [ ] 代辦事項  
+> - [x] 完成事項 
+> - [ ] 代辦事項
+
+**表格**
+  
+    | Tables        | Are           | Cool  |
+    | ------------- |:-------------:| -----:|
+    | 靠左對齊       | 冒號兩邊置中對齊 | 冒號右邊靠右對齊 |
+    | test        | test     | test |
+> | Tables        | Are           | Cool  |
+> | ------------- |:-------------:| -----:|
+> | 靠左對齊       | 冒號兩邊置中對齊 | 冒號右邊靠右對齊 |
+> | test        | test     | test |
+
+**連結**
+
+    * 連結兩邊加上`<` `>`就會產生超連結
+      <http://dillinger.io/>  
+    
+	* 名稱兩邊加上`[` `]`然後再連結兩邊加上`(` `)`就可以將連結替換成文字連結
+    [Dillinger](http://dillinger.io/ "link")
+	
+    * 將`[` `]`前+`!`，則可以產生圖片 (把滑鼠指向圖片可以看到註解）
+    ![圖片參考名稱](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo")
+> 連結兩邊加上`<` `>`就會產生超連結 <http://dillinger.io/> \
+> 名稱兩邊加上`[` `]`然後再連結兩邊加上`(` `)`就可以將連結替換成文字連結  
+    [Dillinger](http://dillinger.io/ "link") \
+> 將`[` `]`前+`!`，則可以產生圖片 (把滑鼠指向圖片可以看到註解）
+    ![圖片參考名稱](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo")
+
+**程式碼與語法高亮**
+    
+    ```javascript
+    var s = "JavaScript 語法高亮";
+    alert(s);
+    ```
+    ```php
+    $s = "PHP 語法高亮";
+    echo $s;
+    ```
+> ```javascript
+> var s = "JavaScript 語法高亮";
+> alert(s);
+> ```
+> ```php
+> $s = "PHP 語法高亮";
+> echo $s;
+> ```
