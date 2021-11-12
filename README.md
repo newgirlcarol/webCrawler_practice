@@ -20,5 +20,5 @@
 ## 爬取結果
 ![image](https://github.com/newgirlcarol/webCrawler_learning/blob/master/%E6%93%B7%E5%8F%96.JPG)
 
-## webCloud
+## wordCloud
 ![image](https://github.com/newgirlcarol/webCrawler_learning/blob/master/skill.jpg)
